@@ -3,4 +3,4 @@
 
 ### 1. 数字水印 -- digital_watermarking.py
 ### 2. 新个税计算器 -- TaxCaculate.py
-### 3. 生成/识别二维码
+### 3. 生成/识别二维码 -- QRCode.py
